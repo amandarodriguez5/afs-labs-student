@@ -1,4 +1,5 @@
---Verifying database pipeline
+-- Verifying database pipeline
+-- Adding a second comment to verify after error
 -- PostgreSQL database dump
 --
 
